@@ -1,8 +1,10 @@
 # game-2840
-![game immage](2048.JPG)
+![game image](2048.JPG)
 
 it is fun game created in  python
 it is a game build in python3 using Tkinter and it has 3 files .
+
+![winning prompt](2048win.JPG)
 
 the constants file contains the constant data that is required for the file and is used for the graphics part.
 the logicsfinal file contains the main code or you can say the logic behind the game.
