@@ -1,4 +1,6 @@
 # game-2840
+2048.JPG
+
 it is fun game created in  python
 it is a game build in python3 using Tkinter and it has 3 files .
 
