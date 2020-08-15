@@ -5,7 +5,7 @@ it is fun game created in  python
 it is a game build in python3 using Tkinter lib.
 
 ![winning prompt](2048win.JPG)
-...
+---
 
 
 ### It contains 3 files that are as follows:-
