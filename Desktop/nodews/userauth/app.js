@@ -21,6 +21,8 @@ const userSchema= new mongoose.Schema({ // for encrption new type of schema is c
     email:String,
     password:String});
 
+// console.log(process.env.API_KEY); for the access of file.
+
 //  const secret = "this is our little secret.";
 // we created a new SECRET In env and access through it.
 userSchema.plugin(encrypt,{secret:process.env.SECRET, encrptedFields:["password"]});  //study about the plugins
